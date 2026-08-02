@@ -30,3 +30,13 @@ This repository aims to provide researchers with:
 - Retrieval-Augmented Generation (RAG)
 
 ---
+
+## 📄 License
+
+MIT License
+
+---
+
+## 🌟 Acknowledgements
+
+Thanks to all researchers who make their papers and code publicly available.

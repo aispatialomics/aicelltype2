@@ -13,3 +13,20 @@ This repository aims to provide researchers with:
 - 🤖 Large language model (LLM) applications
 - 🖼️ Vision-language and multimodal approaches
 - 📄 Papers, code, datasets, and benchmarks
+
+---
+
+## 🔥 Research Topics
+
+- Cell Type Annotation
+- Cell Type Discovery
+- Single-cell RNA-seq
+- Spatial Transcriptomics
+- Foundation Models
+- Large Language Models (LLMs)
+- Vision-Language Models (VLMs)
+- Multimodal Learning
+- Biological Representation Learning
+- Retrieval-Augmented Generation (RAG)
+
+---

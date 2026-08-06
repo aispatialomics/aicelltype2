@@ -50,6 +50,11 @@ Methods integrating transcriptomics, imaging, histology, proteomics, and other b
 Benchmarking resources
 Public datasets, evaluation frameworks, annotation standards, and comparative studies for assessing AI-driven cell type identification methods.
 
+🚀 Research Directions
+
+AI-CellTypes highlights several emerging research directions:
+
+
 ## 📄 License
 
 MIT License

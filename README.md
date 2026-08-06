@@ -45,6 +45,8 @@ Single-cell and spatial omics foundation models
 Large-scale pretrained models designed to learn universal biological representations from millions of cells and spatial profiles.
 LLM-powered biological analysis
 Applications of large language models for marker interpretation, literature-based annotation, biological reasoning, and interactive analysis assistants.
+Multimodal and vision-language approaches
+Methods integrating transcriptomics, imaging, histology, proteomics, and other biological modalities for comprehensive cellular understanding.
 
 ## 📄 License
 

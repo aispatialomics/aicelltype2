@@ -33,6 +33,7 @@ This repository aims to provide researchers with:
 🎯 Motivation
 
 With the rapid development of single-cell and spatial omics technologies, large-scale biological datasets are generating unprecedented opportunities for understanding cellular states, tissue organization, and disease mechanisms. However, accurate cell type annotation and biological interpretation remain challenging due to batch effects, incomplete marker knowledge, biological heterogeneity, and the increasing complexity of multimodal data.
+AI-CellTypes aims to bridge the gap between artificial intelligence and modern omics analysis by collecting and organizing emerging AI-based approaches that enable automated cell type recognition, representation learning, and biological knowledge discovery.
 
 
 ## 📄 License

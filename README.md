@@ -39,6 +39,8 @@ AI-CellTypes aims to bridge the gap between artificial intelligence and modern o
 🧩 What This Repository Covers
 
 This repository provides a structured overview of AI methods applied to cell type analysis, including:
+AI-based cell annotation models
+Deep learning, graph neural networks, transformer-based models, and foundation models for automated cell identity prediction.
 
 ## 📄 License
 

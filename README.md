@@ -47,6 +47,8 @@ LLM-powered biological analysis
 Applications of large language models for marker interpretation, literature-based annotation, biological reasoning, and interactive analysis assistants.
 Multimodal and vision-language approaches
 Methods integrating transcriptomics, imaging, histology, proteomics, and other biological modalities for comprehensive cellular understanding.
+Benchmarking resources
+Public datasets, evaluation frameworks, annotation standards, and comparative studies for assessing AI-driven cell type identification methods.
 
 ## 📄 License
 

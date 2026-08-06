@@ -54,7 +54,8 @@ Public datasets, evaluation frameworks, annotation standards, and comparative st
 
 AI-CellTypes highlights several emerging research directions:
 Building general-purpose biological foundation models capable of transferring knowledge across tissues, species, and experimental platforms.
-
+Developing explainable AI systems that connect computational predictions with biological mechanisms.
+Integrating genomic, transcriptomic, spatial, and imaging data through multimodal learning.
 
 ## 📄 License
 

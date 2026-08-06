@@ -53,6 +53,7 @@ Public datasets, evaluation frameworks, annotation standards, and comparative st
 🚀 Research Directions
 
 AI-CellTypes highlights several emerging research directions:
+Building general-purpose biological foundation models capable of transferring knowledge across tissues, species, and experimental platforms.
 
 
 ## 📄 License

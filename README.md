@@ -59,6 +59,15 @@ Integrating genomic, transcriptomic, spatial, and imaging data through multimoda
 Leveraging retrieval-augmented generation (RAG) and biological knowledge bases to improve AI-assisted scientific discovery.
 Creating robust and scalable tools for automated annotation and exploration of increasingly large-scale omics datasets.
 
+🌍 Community Contribution
+
+AI-CellTypes is designed as a living resource for the research community. Researchers are welcome to contribute new papers, models, datasets, benchmarks, and software tools related to AI-driven cell type analysis.
+
+If you discover new methods, identify missing resources, or have suggestions for improving the collection, contributions and discussions are highly encouraged.
+
+Together, we hope to accelerate the development of AI-enabled computational biology and support the next generation of single-cell and spatial omics research.
+
+
 ## 📄 License
 
 MIT License

@@ -56,6 +56,8 @@ AI-CellTypes highlights several emerging research directions:
 Building general-purpose biological foundation models capable of transferring knowledge across tissues, species, and experimental platforms.
 Developing explainable AI systems that connect computational predictions with biological mechanisms.
 Integrating genomic, transcriptomic, spatial, and imaging data through multimodal learning.
+Leveraging retrieval-augmented generation (RAG) and biological knowledge bases to improve AI-assisted scientific discovery.
+Creating robust and scalable tools for automated annotation and exploration of increasingly large-scale omics datasets.
 
 ## 📄 License
 
